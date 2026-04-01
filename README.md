@@ -1,2 +1,2 @@
 # FOXG1-Neuron-Differentiation
-Next-genereation sequencing project at UNIPD
+Next-generetion sequencing project at UNIPD
